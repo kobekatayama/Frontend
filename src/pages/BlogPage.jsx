@@ -17,9 +17,7 @@ const AccordionPage = () => {
 
   return (
     <>
-      <div className="text-4xl font-bold pb-4">
-        My Developer Journey — So Far
-      </div>
+      <h1>My Developer Journey</h1>
       {items.map((item, i) => (
         <Accordion
           key={i}
