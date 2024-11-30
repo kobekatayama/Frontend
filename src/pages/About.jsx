@@ -6,14 +6,12 @@ const About = () => {
       <h1>About Me</h1>
       <img
         className="rounded-full w-32 h-32 float-right ml-4"
-        src="mark_portrait_2016.jpg"
+        src="kobespfp.jpg"
         alt="Mark Montoya"
       />
-      <p>Hello! My name is Mark Montoya.</p>
+      <p>Hello! My name is Kobe Katayama.</p>
       <p>
-        I am a passionate developer with a journey that started in 2000. Over
-        the years, I have honed my skills in various programming languages and
-        frameworks, with a special focus on JavaScript and React.
+        I am a student at the Master's University that loves learning and loves to play baseball. I am working my hardest to learn about web develpoment and Prof. Montoya is a great professor to have for this.
       </p>
       <p>
         My developer journey has been fueled by a love for problem-solving and a
